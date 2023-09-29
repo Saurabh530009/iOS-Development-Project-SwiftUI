@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Cropped_Image.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
